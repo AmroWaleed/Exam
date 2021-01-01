@@ -13,9 +13,13 @@ console.log('PART 4');
 
 const isABalancedString = () => {
   // WRITE YOUR CODE BELOW THIS LINE
+
 };
 
 /*
+ return result as a sting
+ iterate over array 
+
 
 Examples:
 
