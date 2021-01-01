@@ -5,7 +5,7 @@ PART 3 [General Information]:
 Type the correct answer below each question:
 
 Q1) Why do we use joins in SQL?
-
+it used to share tow rows with multiple taples 
 
 Q2) Name three types of relationships in databases.
 
