@@ -5,13 +5,13 @@ PART 2 [SQL Queries]:
 Type the correct SQL query below every question:
 
 Q1) What is the query for displaying all the databases?
-
+`show databases`
 
 Q2) What is the query for using a specific database?
-
+`use database_name`
 
 Q3) What is the query for creating a new database called `meraki`?
-
+`create database meraki`
 
 Q4) What is the query for deleting a database called `meraki`?
 
