@@ -8,7 +8,7 @@ Q1) Why do we use joins in SQL?
 it used to share tow rows with multiple taples 
 
 Q2) Name three types of relationships in databases.
-
+one to one, one to many, and many to many   
 
 Q3) What are the main three sections of a JWT?
 
