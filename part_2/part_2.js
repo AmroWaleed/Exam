@@ -8,7 +8,7 @@ Q1) What is the query for displaying all the databases?
 'SHOW DATABASES'
 
 Q2) What is the query for using a specific database?
-'USE database_name'
+'USE DATBASE database_name'
 
 Q3) What is the query for creating a new database called `meraki`?
 'CREATE DATABASE meraki'
