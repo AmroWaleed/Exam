@@ -35,6 +35,6 @@ Q10) What is the query to perform a left join on two tables (users, posts) depen
 use primary key in table and use it as a forign key in other table 
 
 Q11) What is the query to get all the users that their age ranges from 20-30 from the `users` table?
-'SELECT * FROM users WHERE `age`= '
+'SELECT * FROM users WHERE `age`= 20-30'
 
 */

@@ -20,7 +20,7 @@ Q5) What is the `effect` hook used for in react?
 
 
 Q6) What is the `state` hook used for in react?
-
+used for edit objects in the component that we use or we in  
 
 Q7) List three thing you can use to create a responsive web application.
 create backend code side and frotend side like use SERN stack  
