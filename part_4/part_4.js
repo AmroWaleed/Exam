@@ -18,7 +18,8 @@ const isABalancedString = () => {
 
 /*
  return result as a sting
- iterate over array 
+ iterate over array to check if the input are even value if not return no  
+ if even iterate over array to check if the parantheces that opened is closed then return yes   
 
 
 Examples:
